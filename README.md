@@ -6,4 +6,4 @@
 ### ✏️ 직접 체험하기
 - https://feelinglog.netlify.app/
 ### 🎥 시연 영상
-- https://www.youtube.com/watch?v=0gvOH6sBl-M
+- https://youtu.be/GjQxu4jUD6k
